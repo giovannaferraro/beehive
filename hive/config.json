@@ -1,0 +1,9 @@
+setup = {"N": 1000, 
+        "width": grid_width, 
+        "height": grid_height, 
+        "num_resources": num_resources, 
+        "max_resource_amount":max_resource_amount, 
+        "regeneration_rate":regeneration_rate, 
+        "percentage_foragers": percentage_foragers, 
+        "percentage_nurses": percentage_nurses, 
+        "percentage_guards": percentage_guards}

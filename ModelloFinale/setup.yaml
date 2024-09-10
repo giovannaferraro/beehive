@@ -1,0 +1,10 @@
+initmodel:
+  numbee: 10
+  width: 50
+  height: 50
+  num_resources: 10
+  max_resource_amount: 100
+  regeneration_rate: 1
+  percentage_foragers: 0.4
+  percentage_nurses: 0.4
+  percentage_guards: 0.2
